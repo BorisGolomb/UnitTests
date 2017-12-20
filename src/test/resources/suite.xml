@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="CalculatorTests" verbose="1" parallel="classes" thread-count="3">
+    <test name="Group1"   >
+        <classes>
+            <class name="TestNG.SumTest1"/>
+            <class name="TestNG.CosTest"/>
+            <class name="TestNG.SinTest"/>
+        </classes>
+    </test>
+</suite>
