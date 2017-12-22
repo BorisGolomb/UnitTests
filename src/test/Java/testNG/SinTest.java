@@ -1,13 +1,13 @@
-package TestNG;
+package testNG;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TgTest extends BaseTest {
+public class SinTest extends BaseTest {
 
     @Test
     public void testMultPositiveNumbers() {
-        double result = calculator.tg(1);
+        double result = calculator.sin(30);
         Assert.assertEquals(1, result, 0);
     }
-}
+    }

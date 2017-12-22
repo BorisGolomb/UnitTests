@@ -1,9 +1,7 @@
-package JUnit;
+package jUnit;
 
 import org.junit.Assert;
 import org.junit.Test;
-
-import javax.xml.transform.Result;
 
 import static org.junit.Assert.assertEquals;
 

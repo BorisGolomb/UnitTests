@@ -1,11 +1,8 @@
-package TestNG;
+package testNG;
 import com.epam.tat.module4.Calculator;
 
-import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
-import org.testng.TestNG;
 
 public class BaseTest {
 

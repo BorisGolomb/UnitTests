@@ -1,4 +1,4 @@
-package JUnit;
+package jUnit;
 
 import com.epam.tat.module4.Calculator;
 import org.junit.Before;

@@ -3,9 +3,9 @@
 <suite name="CalculatorTests" verbose="1" parallel="classes" thread-count="3">
     <test name="Group1"   >
         <classes>
-            <class name="TestNG.SumTest1"/>
-            <class name="TestNG.CosTest"/>
-            <class name="TestNG.SinTest"/>
+            <class name="testNG.SumTest1"/>
+            <class name="testNG.CosTest"/>
+            <class name="testNG.SinTest"/>
         </classes>
     </test>
 </suite>

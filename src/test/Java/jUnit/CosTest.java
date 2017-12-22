@@ -1,4 +1,4 @@
-package JUnit;
+package jUnit;
 
 import org.junit.Assert;
 import org.junit.Test;

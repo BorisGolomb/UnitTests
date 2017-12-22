@@ -1,7 +1,7 @@
-package TestNG;
+package jUnit;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
 public class MultTest1 extends BaseTest {
 

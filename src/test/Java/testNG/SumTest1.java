@@ -1,8 +1,6 @@
-package TestNG;
+package testNG;
 
-import org.junit.runner.RunWith;
 import org.testng.Assert;
-import org.testng.TestNG;
 import org.testng.annotations.Test;
 
 
